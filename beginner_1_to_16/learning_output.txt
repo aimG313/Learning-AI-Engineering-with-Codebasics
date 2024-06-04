@@ -1,0 +1,22 @@
+1)variable = container = to store some specific data
+these are call variables because the value can vary
+
+naming convention: can't use something which is already included in python as a keyword
+
+2)Number operation:
+% = modular operator = gives remainder 
+** = power operator
+
+3)Print operator: print()
+
+to round off to certain digit: print(round(,))
+
+4)String: sequence of character
+to access use => string[]
+in python string members can't be varry
+to traverse use => string[:]
+to use multiline use => ''' '''
+to concatinate => string1 + string2
+
+4)type casting: type conversion in python
+eg:string(Number), int(a)
