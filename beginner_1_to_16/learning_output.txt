@@ -31,3 +31,7 @@ list.insert(1,"item")
 to concatinate = list1 + list2
 to get the length of list = print(len(list))
 to test some item whether present or not => "item" in list
+
+6)Input: use input("")
+in python input operation always takes input a string
+use typecasting for data type change
