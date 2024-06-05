@@ -20,3 +20,14 @@ to concatinate => string1 + string2
 
 4)type casting: type conversion in python
 eg:string(Number), int(a)
+
+5)list: similar to array in C++ 
+
+to access a item from list use=> list[index]
+to traverse like string use=> list[:]
+to add element at last => list.append("item")
+to insert element in specific location=> 
+list.insert(1,"item")
+to concatinate = list1 + list2
+to get the length of list = print(len(list))
+to test some item whether present or not => "item" in list
