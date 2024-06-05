@@ -1,4 +1,4 @@
-# Learning-AI-Engineering-with-code-basics
+# Learning AI Engineering with code basics
  
  
  
