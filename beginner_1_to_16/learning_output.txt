@@ -35,3 +35,14 @@ to test some item whether present or not => "item" in list
 6)Input: use input("")
 in python input operation always takes input a string
 use typecasting for data type change
+
+7)loop:
+
+for i in list:
+  operation
+
+range of loop=> range(start,end)
+to stop the loop before completing use => break
+to skip a operation use=> continue
+
+while comdition:
