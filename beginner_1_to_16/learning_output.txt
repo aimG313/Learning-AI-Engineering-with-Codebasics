@@ -46,3 +46,10 @@ to stop the loop before completing use => break
 to skip a operation use=> continue
 
 while comdition:
+
+8)Function: A block of codes for specific tasks
+
+input => Function arguments (1. Named, 2.Positional, 3.Default)
+output => Return value
+
+Documentation strings: multiline strings explanation of Function like a comment
