@@ -23,6 +23,7 @@ eg:string(Number), int(a)
 
 5)list: similar to array in C++ 
 
+all values have similar meaning
 to access a item from list use=> list[index]
 to traverse like string use=> list[:]
 to add element at last => list.append("item")
@@ -53,3 +54,22 @@ input => Function arguments (1. Named, 2.Positional, 3.Default)
 output => Return value
 
 Documentation strings: multiline strings explanation of Function like a comment
+
+9)Dictionary: allows to store key, value pairs
+also known as maps, hashtables , Associate arrays
+
+classical example: telephone directory
+accessing dict element=> d["element"]
+order in the Dictionary doesn't matter it's random, based on keyword
+to delete use => del d["element"]
+to check someone in Dictionary=>"element" in Dictionary 
+to make a dictionary empty=> dictionary.clear
+
+10)Tuples: list of value grouped together 
+all values have different meaning (heterogeneous)
+example: address of a person
+can't change elements(Immutable)
+
+11)Modules: 
+
+Reusing a code written by some others
