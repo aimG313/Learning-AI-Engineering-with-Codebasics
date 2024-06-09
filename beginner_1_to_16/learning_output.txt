@@ -70,7 +70,7 @@ all values have different meaning (heterogeneous)
 example: address of a person
 can't change elements(Immutable)
 
-11)Modules: 
+*11)Modules: 
 
 Reusing a code written by some others
 
@@ -101,3 +101,10 @@ json.loads(file)
 
 14)Entry point: _ _ name _ _ == _ _ main _ _
 like "main" in 
+
+*15)Exceptions: errors are errors detected at the the time of program executions
+
+*16)class: Human
+   Object: Tom cruse 
+   Properties: Male
+   Methods: Action
