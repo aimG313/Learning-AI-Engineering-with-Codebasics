@@ -73,3 +73,31 @@ can't change elements(Immutable)
 11)Modules: 
 
 Reusing a code written by some others
+
+12)Files:
+
+to open a file use => f = open("full path(with//)","w/r/a")
+w=>write with overwrite
+r=>read 
+a=>append without over write
+to write use => f.write("what I want to write)
+to read use => print(f.read())
+
+split() will split the string usning input character and retun a list(array) of words
+
+with statement => replacement of close()
+to check close or open => print(f.closed)
+
+
+13) JSON: Java Script Object Notion
+JSON is a data exchange format similar to XML
+light weight than XML
+
+json library will turn the dictionary into string or json format =>
+imprt json
+json.dumps(dictionary)
+json to dictionary => 
+json.loads(file)
+
+14)Entry point: _ _ name _ _ == _ _ main _ _
+like "main" in 
